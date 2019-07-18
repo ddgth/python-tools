@@ -1,7 +1,7 @@
 ### 嗅探局域网内已联通ip  
 ### sniffing active ips in local area networks
 
-#### 用法：
+#### 用法(usage)：
 
 > 1.pip install IPy
 
