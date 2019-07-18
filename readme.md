@@ -1,4 +1,5 @@
-### 检测局域网内联通ip
+### 嗅探局域网内已联通ip  
+### sniffing active ips in local area networks
 
 #### 用法：
 
